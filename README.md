@@ -104,6 +104,20 @@ The agent will:
       Topic, Summary, Sources, Tools used
 
 
+Sample Prompt
+
+
+``` bash
+
+
+    Kenya's Independence and save in a file
+
+```
+
+
+
+
+
 
 
 # 🧰 Built-in Tools
